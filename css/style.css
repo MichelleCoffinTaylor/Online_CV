@@ -1,0 +1,37 @@
+/* --- Style Sheet --- */
+
+/* -- Basic Layout -- */
+aside {
+	width: 200px;
+	float: left;
+}
+#container {
+	width: 80%;
+}
+header {
+
+}
+main {
+
+}
+footer {
+
+}
+.float {
+	float: left;
+}
+/* -- Styling -- */
+.color {
+	color: black;
+}
+.font {
+	font-family: Helvetica;
+}
+li {
+	/* --- Use this to take away text decoration --- */
+	list-style-type: none;
+}
+
+
+
+
